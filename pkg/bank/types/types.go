@@ -12,3 +12,4 @@ type Payment struct {
 	Amount   Money
 	Category Category
 }
+
